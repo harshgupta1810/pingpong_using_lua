@@ -82,7 +82,7 @@ The game progresses through different states, affecting the gameplay and UI mess
 
 ## Acknowledgments
 
-The Pong game code was created by [your name here]. The game is built using the LÖVE2D framework and makes use of external libraries for resolution handling (Push) and object-oriented programming (Class). The fonts used in the game are licensed for use in this project. Sound effects were obtained from [source here] and are used with permission.
+The Pong game code was created by Harsh Gupta (Desparete Enuf). The game is built using the LÖVE2D framework and makes use of external libraries for resolution handling (Push) and object-oriented programming (Class). The fonts used in the game are licensed for use in this project. Sound effects were obtained from [source here] and are used with permission.
 
 ## License
 
